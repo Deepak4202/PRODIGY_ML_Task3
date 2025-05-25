@@ -8,11 +8,17 @@ This project implements a **Support Vector Machine (SVM)** classifier to disting
 
 .
 ├── svm_dog_cat_classifier.py # Main script to load data and train the SVM model
+
 ├── train/ # Folder containing cat and dog images
+
 │ ├── cat.0.jpg
+
 │ ├── dog.0.jpg
+
 │ └── ...
+
 ├── test/ # (Optional) Folder for testing new images
+
 └── README.md
 
 yaml
